@@ -7,4 +7,4 @@
 ## Reference
 * Learned basics of **html** from here [Link](https://www.youtube.com/watch?v=UB1O30fR-EE) 
 * Learned basics of **CSS** from here [Link](https://www.codecademy.com/courses/learn-html/lessons/intro-to-html/exercises/intro)
-* For further reference we went here [Link](https://www.w3schools.com/css/css_intro.asp)
+* For further reference went here [Link](https://www.w3schools.com/css/css_intro.asp)
